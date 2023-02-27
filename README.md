@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **PHP, React JS, Angular, Flask**
 
-- 👨‍💻 All of my projects are available at [https://dannyjr08.github.io](https://dannyjr08.github.io)
-
 - 💬 Ask me about **SCSS**
 
 - 📫 How to reach me **j_danny07@hotmail.com**
