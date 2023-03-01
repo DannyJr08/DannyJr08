@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Daniel</h1>
-<h3 align="center">A passionate self-taught person. Upcoming software engineer.</h3>
+<h3 align="center">A passionate self-taught person. Upcoming Software Engineer.</h3>
 
 - 🌱 I’m currently learning **PHP, React JS, Angular, Flask**
 
