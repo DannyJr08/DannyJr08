@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Daniel</h1>
 <h3 align="center">A passionate self-taught person. Upcoming Software Engineer.</h3>
 
-- 🌱 I’m currently learning **PHP, React JS, Angular, Flask**
+- 🌱 I’m currently learning **PHP, React JS, Angular, Flask, Docker, Kubernetes**
 
 - 💬 Ask me about **SCSS**
 
@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/danny_jr08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danny_jr08" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juan-daniel-rodríguez-oropeza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-daniel-rodríguez-oropeza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan-daniel-rodriguez-oropeza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-daniel-rodríguez-oropeza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
