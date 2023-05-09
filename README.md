@@ -17,3 +17,120 @@
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://clojure.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dannyjr08&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="dannyjr08" /></p>
+
+
+## Biggest Projects
+### Public
+
+If you work with TypeScript, you may have used one of the open source projects I support:
+
+<table width="100%">
+	<thead>
+		<th span="col">Project ⚙️</th>
+        <th span="col">Client</th>
+		<th span="col">Description 📝</th>
+		<th span="col">Role 🧑‍🏭</th>
+		<th span="col">Images</th>
+	</thead>
+	<tbody>
+        <tr>
+            <th span="row"><a href="https://github.com/DannyJr08/Reto-Sistemas-Multiagentes_Movilidad-Urbana">Traffic Simulation</a></th>
+            <td>IBM</td>
+            <td>On a college project in association with IBM, I developed as part of a team a traffic simulation on <strong>Unity</strong>, where the cars' behaviour was in <strong>Python</strong> with <strong>Mesa</strong> framework, focused on multiagents. API was made with <strong>Flask</strong>.</td>
+            <td>Software Engineer Intern</td>
+            <td>Image</td>
+        </tr>
+		<tr>
+			<th span="row">
+                <a href="https://github.com/DannyJr08/los-trabajos-de-steve_ssa-web">Heart Care Web App</a>
+                <hr>
+                <a href="https://github.com/omarsinho/SaludOS-Movil">Heart Care Mobile App</a>
+            </th>
+			<td>Secretaría de Salud</td>
+			<td>On a college project in association with Secretaría de Salud, I developed as part of a team an <strong>iOS</strong> app addressed to heart disease patients, so they can register their blood pressure and pulse, check their statistics, and link with their medics in order to view their prescriptions. It was also developed a <strong>React JS</strong> web app, so medics can manage their patient, view their statistics, and assign prescriptions. For backend we used <strong>Firebase</strong>.</td>
+			<td>Software Engineer Intern</td>
+            <td><img alt="Stars: typescript-eslint" src="https://img.shields.io/github/stars/typescript-eslint/typescript-eslint" /></td>
+		</tr>
+		<tr>
+			<th span="row">
+                <a href="https://github.com/jaiovi/Denso-Git">Human Resources Web App - Frontend</a>
+                <hr>
+                <a href="https://github.com/jaiovi/Boilerplate-Denso-API">Human Resources Web App - Backend</a>
+            </th>
+            <td>Denso México SA de Cv</td>
+			<td>On a college project in association with Denso, I developed as part of a team a web app <strong>(React JS)</strong> to filter applicants, with a database <strong>(MariaDB)</strong> that collects candidates' information from a psychometric test <strong>(Unity)</strong> they previously take. API was developed with <strong>Python (Flask)</strong>.</td>
+			<td>Software Engineer Intern</td>
+			<td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/JoshuaKGoldberg/TypeStat" /></td>
+		</tr>
+        <tr>
+            <th span="row"><a href="https://github.com/DannyJr08/IMECO-SP1_DSL-Musica">Basic Implementation of a DSL to Play Music</a></th>
+            <td>None</td>
+            <td>I developed a DSL parser equivalent to the MUT language in <strong>Python</strong>. In addition to analyzing the correct use of the musical language lexicon, it executes the input code with the sounds corresponding to the identified musical notes. It also recognizes the basic syntax of musical note lines, implementing the parser with the recursive descent method.</td>
+            <td>Student</td>
+            <td>Image</td>
+        </tr>
+        <tr>
+            <th span="row"><a href="https://github.com/DannyJr08/Reto-IoT_Ventinteligente">Internet of Things - "Ventinteligente"</a></th>
+            <td>None</td>
+            <td>I developed as part of a team a system that simulated a speed fan. The system is made up of an <strong>Arduino</strong>, a temperature sensor connected to it, an <strong>SQL database (MariaDB)</strong>, and an API that we made in <strong>PHP</strong>. The temperatures were recorded in the database, and with the temperature that was detected along with date and time, it is as the fan speeds were activated (from off to speed 3). In turn, the database also lists the room in which the sensor is located, as well as the energy cost.</td>
+            <td>Student</td>
+            <td>Image</td>
+        </tr>
+	</tbody>
+</table>
+
+### Private
+<table width="100%">
+	<thead>
+		<th span="col">Project ⚙️</th>
+        <th span="col">Client/Enterprise</th>
+		<th span="col">Description 📝</th>
+		<th span="col">Role 🧑‍🏭</th>
+		<th span="col">Images (if applicable)</th>
+	</thead>
+	<tbody>
+        <tr>
+            <th span="row">Smile Analysis Web App</th>
+            <td>Instituto Tecnológico y de Estudios Superiores de Monterrey</td>
+            <td>Development of an <strong>Angular</strong> web app for the smile analysis of the people shot by a webcam from their computer. It was used <strong>Azure</strong> due to the services of <strong>Blob Storage</strong> and <strong>Face</strong>. Deployment is on <strong>Microsoft SharePoint</strong>.</td>
+            <td>Software Engineer Intern</td>
+            <td>Not applicable</td>
+        </tr>
+		<tr>
+			<th span="row">GYM Web App</th>
+			<td>Instituto Tecnológico y de Estudios Superiores de Monterrey</td>
+			<td>On a scholarship service college project, I develop as part of a team a web app <strong>(PHP)</strong>, so coaches from Wellness Center Gym can manage their students and statistics, as well as workout routines that will be available for students. For database we used <strong></strong>MySQL.</td>
+			<td>Software Engineer Intern</td>
+            <td><img alt="Stars: typescript-eslint" src="https://img.shields.io/github/stars/typescript-eslint/typescript-eslint" /></td>
+		</tr>
+	</tbody>
+</table>
+
+### Events
+<table width="100%">
+	<thead>
+		<th span="col">Event</th>
+        <th span="col">Project ⚙️</th>
+        <th span="col">Organization</th>
+		<th span="col">Description 📝</th>
+		<th span="col">Images</th>
+	</thead>
+	<tbody>
+        <tr>
+            <th span="row">DSC Datathon 2023</th>
+            <th>VivaAerobus Challenge</th>
+            <td>Data Science Club - Instituto Tecnológico y de Estudios Superiores de Monterrey</td>
+            <td>Based on multiple datasets of the VivaAerobus web application feedback, data was cleaned by getting rid of random comments, identifying the language of the comment, correcting their spelling, translating every comment to English, and getting id of comments with curse words. Normalization and classification of the rating (numeric values) in order to represent users' emotions. Implementation of a neural network to categorize the feedback comments and to determine if they are positive or negative.</td>
+            <td>Not applicable</td>
+        </tr>
+        <tr>
+            <th span="row">iOS TecMTY Hack 2023</th>
+            <th>ExplorAR</th>
+            <td>Instituto Tecnológico y de Estudios Superiores de Monterrey</td>
+            <td>iOS mobile application that is about a world-wide dictionary where the user can scan an object using Augmented Reality technology, add it a title and a description (these are reviewed by the OpenAI API in order to determine if the information is coherent). The user can view the dictionary of each community. When a user wants to view other definitions, they can visualize in 3D in the object that was scanned via AR technology.</td>
+            <td>Not applicable</td>
+        </tr>
+	</tbody>
+</table>
+
+## Human Languages
