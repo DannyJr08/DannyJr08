@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP, React JS, Angular, Flask**
 
-- 💬 Ask me about **Git, SCSS, OOP**
+- 💬 Ask me about **CSS, Git, SCSS, OOP**
 
 - 📫 How to reach me **j_danny07@hotmail.com**
 
@@ -80,21 +80,40 @@
             <td>Denso México SA de Cv</td>
 			<td>On a college project in association with Denso, I developed as part of a team a web app <strong>(React JS)</strong> to filter applicants, with a database <strong>(MariaDB)</strong> that collects candidates' information from a psychometric test <strong>(Unity)</strong> they previously take. API was developed with <strong>Python (Flask)</strong>.</td>
 			<td>Software Engineer Intern</td>
-			<td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/JoshuaKGoldberg/TypeStat" /></td>
+			<td>
+                <img alt="Web Inicio" src="img/Denso/Web/Web-Inicio.png">
+                <hr>
+                <img alt="Lista Candidatos" src="img/Denso/Web/Lista-Candidatos.png">
+                <hr>
+                <hr>
+                <img alt="Survive Game" src="img/Denso/Juego/Rapido2.gif">
+                <hr>
+                <img alt="Memory Game" src="img/Denso/Juego/Memoria.png">
+                <hr>
+                <img alt="Psicometrico" src="img/Denso/Juego/Psicometrico.png">
+                <hr>
+                <img alt="Game Over" src="img/Denso/Juego/GameOver2.gif">
+            </td>
 		</tr>
         <tr>
             <th span="row"><a href="https://github.com/DannyJr08/IMECO-SP1_DSL-Musica">Basic Implementation of a DSL to Play Music</a></th>
             <td>None</td>
             <td>I developed a DSL parser equivalent to the MUT language in <strong>Python</strong>. In addition to analyzing the correct use of the musical language lexicon, it executes the input code with the sounds corresponding to the identified musical notes. It also recognizes the basic syntax of musical note lines, implementing the parser with the recursive descent method.</td>
             <td>Student</td>
-            <td>Image</td>
+            <td>Not applicable</td>
         </tr>
         <tr>
             <th span="row"><a href="https://github.com/DannyJr08/Reto-IoT_Ventinteligente">Internet of Things - "Ventinteligente"</a></th>
             <td>None</td>
             <td>I developed as part of a team a system that simulated a speed fan. The system is made up of an <strong>Arduino</strong>, a temperature sensor connected to it, an <strong>SQL database (MariaDB)</strong>, and an API that we made in <strong>PHP</strong>. The temperatures were recorded in the database, and with the temperature that was detected along with date and time, it is as the fan speeds were activated (from off to speed 3). In turn, the database also lists the room in which the sensor is located, as well as the energy cost.</td>
             <td>Student</td>
-            <td>Image</td>
+            <td>
+                <img alt="Ventinteligente 1" src="img/Ventinteligente/Ventinteligente-1.png">
+                <hr>
+                <img alt="Ventinteligente 2" src="img/Ventinteligente/Ventinteligente-2.png">
+                <hr>
+                <img alt="Ventinteligente 3" src="img/Ventinteligente/Ventinteligente-3.png">
+            </td>
         </tr>
 	</tbody>
 </table>
@@ -182,5 +201,3 @@
         </tr>
 	</tbody>
 </table>
-
-## Human Languages
