@@ -21,9 +21,6 @@
 
 ## Biggest Projects
 ### Public
-
-If you work with TypeScript, you may have used one of the open source projects I support:
-
 <table width="100%">
 	<thead>
 		<th span="col">Project ⚙️</th>
@@ -38,7 +35,7 @@ If you work with TypeScript, you may have used one of the open source projects I
             <td>IBM</td>
             <td>On a college project in association with IBM, I developed as part of a team a traffic simulation on <strong>Unity</strong>, where the cars' behaviour was in <strong>Python</strong> with <strong>Mesa</strong> framework, focused on multiagents. API was made with <strong>Flask</strong>.</td>
             <td>Software Engineer Intern</td>
-            <td>Image</td>
+            <td><img alt="Traffic Simulation Unity" src="img/Traffic-Simulation/Traffic-Simulation.png"></td>
         </tr>
 		<tr>
 			<th span="row">
@@ -49,7 +46,30 @@ If you work with TypeScript, you may have used one of the open source projects I
 			<td>Secretaría de Salud</td>
 			<td>On a college project in association with Secretaría de Salud, I developed as part of a team an <strong>iOS</strong> app addressed to heart disease patients, so they can register their blood pressure and pulse, check their statistics, and link with their medics in order to view their prescriptions. It was also developed a <strong>React JS</strong> web app, so medics can manage their patient, view their statistics, and assign prescriptions. For backend we used <strong>Firebase</strong>.</td>
 			<td>Software Engineer Intern</td>
-            <td><img alt="Stars: typescript-eslint" src="https://img.shields.io/github/stars/typescript-eslint/typescript-eslint" /></td>
+            <td>
+                <img alt="Mobile Salud-OS 1" src="img/Heart-Care-App/Movil/Movil-Salud-OS-1.png">
+                <hr>
+                <img alt="Mobile Salud-OS 2" src="img/Heart-Care-App/Movil/Movil-Salud-OS-2.png">
+                <hr>
+                <img alt="Mobile Salud-OS 3" src="img/Heart-Care-App/Movil/Movil-Salud-OS-3.png">
+                <hr>
+                <img alt="Mobile Salud-OS 4" src="img/Heart-Care-App/Movil/Movil-Salud-OS-4.png">
+                <hr>
+                <img alt="Mobile Salud-OS 5" src="img/Heart-Care-App/Movil/Movil-Salud-OS-5.png">
+                <hr>
+                <img alt="Mobile Salud-OS 6" src="img/Heart-Care-App/Movil/Movil-Salud-OS-6.png">
+                <hr>
+                <hr>
+                <img alt="Web Salud-OS 1" src="img/Heart-Care-App/Web/Web-Salud-OS-1.png">
+                <hr>
+                <img alt="Web Salud-OS 2" src="img/Heart-Care-App/Web/Web-Salud-OS-2.png">
+                <hr>
+                <img alt="Web Salud-OS 3" src="img/Heart-Care-App/Web/Web-Salud-OS-3.png">
+                <hr>
+                <img alt="Web Salud-OS 4" src="img/Heart-Care-App/Web/Web-Salud-OS-4.png">
+                <hr>
+                <img alt="Web Salud-OS 5" src="img/Heart-Care-App/Web/Web-Salud-OS-5.png">
+            </td>
 		</tr>
 		<tr>
 			<th span="row">
@@ -99,9 +119,9 @@ If you work with TypeScript, you may have used one of the open source projects I
 		<tr>
 			<th span="row">GYM Web App</th>
 			<td>Instituto Tecnológico y de Estudios Superiores de Monterrey</td>
-			<td>On a scholarship service college project, I develop as part of a team a web app <strong>(PHP)</strong>, so coaches from Wellness Center Gym can manage their students and statistics, as well as workout routines that will be available for students. For database we used <strong></strong>MySQL.</td>
+			<td>On a scholarship service college project, I develop as part of a team a web app <strong>(PHP)</strong>, so coaches from Wellness Center Gym can manage their students and statistics, as well as workout routines that will be available for students. For database we used <strong>MySQL</strong>.</td>
 			<td>Software Engineer Intern</td>
-            <td><img alt="Stars: typescript-eslint" src="https://img.shields.io/github/stars/typescript-eslint/typescript-eslint" /></td>
+            <td>Not applicable</td>
 		</tr>
 	</tbody>
 </table>
@@ -118,17 +138,47 @@ If you work with TypeScript, you may have used one of the open source projects I
 	<tbody>
         <tr>
             <th span="row">DSC Datathon 2023</th>
-            <th>VivaAerobus Challenge</th>
+            <th><a href="https://github.com/DannyJr08/LosPullRequest_VivaAerobus">VivaAerobus Challenge</a></th>
             <td>Data Science Club - Instituto Tecnológico y de Estudios Superiores de Monterrey</td>
-            <td>Based on multiple datasets of the VivaAerobus web application feedback, data was cleaned by getting rid of random comments, identifying the language of the comment, correcting their spelling, translating every comment to English, and getting id of comments with curse words. Normalization and classification of the rating (numeric values) in order to represent users' emotions. Implementation of a neural network to categorize the feedback comments and to determine if they are positive or negative.</td>
-            <td>Not applicable</td>
+            <td>Based on multiple datasets of the VivaAerobus web application feedback, in <strong>Python</strong> data was cleaned by getting rid of random comments, identifying the language of the comment, correcting their spelling, translating every comment to English, and getting id of comments with curse words. Normalization and classification of the rating (numeric values) in order to represent users' emotions. Implementation of a neural network to categorize the feedback comments and to determine if they are positive or negative.</td>
+            <td>
+                <img alt="Visualización Inicial" src="img/DSC-Datathon-2023/Viva-Ini.png">
+                <hr>
+                <img alt="Gráficas de Visualización 1" src="img/DSC-Datathon-2023/Viva-Vis-1.png">
+                <hr>
+                <img alt="Gráficas de Visualización 2" src="img/DSC-Datathon-2023/Viva-Vis-2.png">
+                <hr>
+                <img alt="Convivencia 1" src="img/DSC-Datathon-2023/Convivencia-1.jpeg">
+                <hr>
+                <img alt="Convivencia 2" src="img/DSC-Datathon-2023/Convivencia-2.jpeg">
+                <hr>
+                <img alt="Convivencia 3" src="img/DSC-Datathon-2023/Convivencia-3.jpeg">
+            </td>
         </tr>
         <tr>
             <th span="row">iOS TecMTY Hack 2023</th>
-            <th>ExplorAR</th>
+            <th>
+                <a href="https://github.com/DannyJr08/ExplorAR">ExplorAR - Frontend</a>
+                <hr>
+                <a href="https://github.com/william-monroy/explorar">ExplorAR - Backend</a>
+            </th>
             <td>Instituto Tecnológico y de Estudios Superiores de Monterrey</td>
-            <td>iOS mobile application that is about a world-wide dictionary where the user can scan an object using Augmented Reality technology, add it a title and a description (these are reviewed by the OpenAI API in order to determine if the information is coherent). The user can view the dictionary of each community. When a user wants to view other definitions, they can visualize in 3D in the object that was scanned via AR technology.</td>
-            <td>Not applicable</td>
+            <td><strong>iOS</strong> mobile application that is about a world-wide dictionary where the user can scan an object using Augmented Reality technology, add it a title and a description (these are reviewed by the <strong>OpenAI API</strong> in order to determine if the information is coherent). The user can view the dictionary of each community. When a user wants to view other definitions, they can visualize in 3D in the object that was scanned via AR technology.</td>
+            <td>
+                <img alt="ExplorAR-1" src="img/iOS-TecMTY-Hack-2023/ExplorAR-1.png">
+                <hr>
+                <img alt="ExplorAR-2" src="img/iOS-TecMTY-Hack-2023/ExplorAR-2.png">
+                <hr>
+                <img alt="ExplorAR-3" src="img/iOS-TecMTY-Hack-2023/ExplorAR-3.png">
+                <hr>
+                <img alt="ExplorAR-4" src="img/iOS-TecMTY-Hack-2023/ExplorAR-4.png">
+                <hr>
+                <img alt="ExplorAR-5" src="img/iOS-TecMTY-Hack-2023/ExplorAR-5.png">
+                <hr>
+                <img alt="ExplorAR-6" src="img/iOS-TecMTY-Hack-2023/ExplorAR-6.png">
+                <hr>
+                <img alt="Diploma Hackathon" src="img/iOS-TecMTY-Hack-2023/Diploma-Hackaton-2023-5_Juan-Daniel.png">
+            </td>
         </tr>
 	</tbody>
 </table>
