@@ -19,6 +19,22 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dannyjr08&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="dannyjr08" /></p>
 
 
+## Soft Skills
+### 🚀 Self-taught
+I thrive on self-directed learning and have a knack for exploring new technologies independently. I love diving into documentation, tutorials, and online resources to expand my knowledge beyond the classroom.
+
+### 📢 Communication
+Clear and effective communication is at the heart of successful collaboration. I possess excellent verbal and written communication skills, allowing me to convey complex ideas with ease. I enjoy engaging with team members, discussing project requirements, and providing progress updates.
+
+### 🤝 Empathy
+Understanding the needs and perspectives of users is crucial for creating impactful software solutions. I bring a strong sense of empathy to my work, enabling me to deeply understand user requirements and develop intuitive and user-friendly applications.
+
+### 🤝 Teamwork
+Collaboration fuels innovation, and I thrive in diverse team environments. I actively contribute ideas, listen attentively to others, and foster an inclusive and supportive atmosphere. Together, we can achieve remarkable results.
+
+### 📚 Passion for Learning & Teaching
+I have an insatiable thirst for knowledge and a genuine passion for learning. Keeping up with the latest industry trends and technologies is an exciting journey for me. I also find joy in sharing my knowledge and experiences, whether it's through mentoring others or teaching what I've learned.
+
 ## Biggest Projects
 ### Public
 <table width="100%">
