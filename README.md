@@ -51,7 +51,9 @@ I have an insatiable thirst for knowledge and a genuine passion for learning. Ke
             <td>IBM</td>
             <td>On a college project in association with IBM, I developed as part of a team a traffic simulation on <strong>Unity</strong>, where the cars' behaviour was in <strong>Python</strong> with <strong>Mesa</strong> framework, focused on multiagents. API was made with <strong>Flask</strong>.</td>
             <td>Software Engineer Intern</td>
-            <td><img alt="Traffic Simulation Unity" src="img/Traffic-Simulation/Traffic-Simulation.png"></td>
+            <td>
+                <img alt="Traffic Simulation Unity" src="img/Traffic-Simulation/Traffic-Simulation.png">
+            </td>
         </tr>
 		<tr>
 			<th span="row">
@@ -97,16 +99,28 @@ I have an insatiable thirst for knowledge and a genuine passion for learning. Ke
 			<td>On a college project in association with Denso, I developed as part of a team a web app <strong>(React JS)</strong> to filter applicants, with a database <strong>(MariaDB)</strong> that collects candidates' information from a psychometric test <strong>(Unity)</strong> they previously take. API was developed with <strong>Python (Flask)</strong>.</td>
 			<td>Software Engineer Intern</td>
 			<td>
-                <img alt="Web Inicio" src="img/Denso/Web/Web-Inicio.png">
+                <picture>
+                    <source loading="lazy" srcset="img/Denso/Web/Web-Inicio.webp" type="image/webp">
+                    <img alt="Web Inicio" src="img/Denso/Web/Web-Inicio.png">
+                </picture>
                 <hr>
-                <img alt="Lista Candidatos" src="img/Denso/Web/Lista-Candidatos.png">
+                <picture>
+                    <source loading="lazy" srcset="img/Denso/Web/Lista-Candidatos.webp" type="image/webp">
+                    <img alt="Lista Candidatos" src="img/Denso/Web/Lista-Candidatos.png">
+                </picture>
                 <hr>
                 <hr>
                 <img alt="Survive Game" src="img/Denso/Juego/Rapido2.gif">
                 <hr>
-                <img alt="Memory Game" src="img/Denso/Juego/Memoria.png">
+                <picture>
+                    <source loading="lazy" srcset="img/Denso/Juego/Memoria.webp" type="image/webp">
+                    <img alt="Memory Game" src="img/Denso/Juego/Memoria.png">
+                </picture>
                 <hr>
-                <img alt="Psicometrico" src="img/Denso/Juego/Psicometrico.png">
+                <picture>
+                    <source loading="lazy" srcset="img/Denso/Juego/Psicometrico.webp" type="image/webp">
+                    <img alt="Psicometrico" src="img/Denso/Juego/Psicometrico.png">
+                </picture>
                 <hr>
                 <img alt="Game Over" src="img/Denso/Juego/GameOver2.gif">
             </td>
@@ -124,11 +138,20 @@ I have an insatiable thirst for knowledge and a genuine passion for learning. Ke
             <td>I developed as part of a team a system that simulated a speed fan. The system is made up of an <strong>Arduino</strong>, a temperature sensor connected to it, an <strong>SQL database (MariaDB)</strong>, and an API that we made in <strong>PHP</strong>. The temperatures were recorded in the database, and with the temperature that was detected along with date and time, it is as the fan speeds were activated (from off to speed 3). In turn, the database also lists the room in which the sensor is located, as well as the energy cost.</td>
             <td>Student</td>
             <td>
-                <img alt="Ventinteligente 1" src="img/Ventinteligente/Ventinteligente-1.png">
+                <picture>
+                    <source loading="lazy" srcset="img/Ventinteligente/Ventinteligente-1.webp" type="image/webp">
+                    <img alt="Ventinteligente 1" src="img/Ventinteligente/Ventinteligente-1.png">
+                </picture>
                 <hr>
-                <img alt="Ventinteligente 2" src="img/Ventinteligente/Ventinteligente-2.png">
+                <picture>
+                    <source loading="lazy" srcset="img/Ventinteligente/Ventinteligente-2.webp" type="image/webp">
+                    <img alt="Ventinteligente 2" src="img/Ventinteligente/Ventinteligente-2.png">
+                </picture>
                 <hr>
-                <img alt="Ventinteligente 3" src="img/Ventinteligente/Ventinteligente-3.png">
+                <picture>
+                    <source loading="lazy" srcset="img/Ventinteligente/Ventinteligente-3.webp" type="image/webp">
+                    <img alt="Ventinteligente 3" src="img/Ventinteligente/Ventinteligente-3.png">
+                </picture>
             </td>
         </tr>
 	</tbody>
@@ -177,17 +200,35 @@ I have an insatiable thirst for knowledge and a genuine passion for learning. Ke
             <td>Data Science Club - Instituto Tecnológico y de Estudios Superiores de Monterrey</td>
             <td>Based on multiple datasets of the VivaAerobus web application feedback, in <strong>Python</strong> data was cleaned by getting rid of random comments, identifying the language of the comment, correcting their spelling, translating every comment to English, and getting id of comments with curse words. Normalization and classification of the rating (numeric values) in order to represent users' emotions. Implementation of a neural network to categorize the feedback comments and to determine if they are positive or negative.</td>
             <td>
-                <img alt="Visualización Inicial" src="img/DSC-Datathon-2023/Viva-Ini.png">
+                <picture>
+                    <source loading="lazy" srcset="img/DSC-Datathon-2023/Viva-Ini.webp" type="image/webp">
+                    <img alt="Visualización Inicial" src="img/DSC-Datathon-2023/Viva-Ini.png">
+                </picture>
                 <hr>
-                <img alt="Gráficas de Visualización 1" src="img/DSC-Datathon-2023/Viva-Vis-1.png">
+                <picture>
+                    <source loading="lazy" srcset="img/DSC-Datathon-2023/Viva-Vis-1.png" type="image/webp">
+                    <img alt="Gráficas de Visualización 1" src="img/DSC-Datathon-2023/Viva-Vis-1.png">
+                </picture>
                 <hr>
-                <img alt="Gráficas de Visualización 2" src="img/DSC-Datathon-2023/Viva-Vis-2.png">
+                <picture>
+                    <source loading="lazy" srcset="img/DSC-Datathon-2023/Viva-Vis-2.png" type="image/webp">
+                    <img alt="Gráficas de Visualización 2" src="img/DSC-Datathon-2023/Viva-Vis-2.png">
+                </picture>
                 <hr>
-                <img alt="Convivencia 1" src="img/DSC-Datathon-2023/Convivencia-1.jpeg">
+                <picture>
+                    <source loading="lazy" srcset="img/DSC-Datathon-2023/Convivencia-1.jpeg" type="image/webp">
+                    <img alt="Convivencia 1" src="img/DSC-Datathon-2023/Convivencia-1.jpeg">
+                </picture>
                 <hr>
-                <img alt="Convivencia 2" src="img/DSC-Datathon-2023/Convivencia-2.jpeg">
+                <picture>
+                    <source loading="lazy" srcset="img/DSC-Datathon-2023/Convivencia-2.jpeg" type="image/webp">
+                    <img alt="Convivencia 2" src="img/DSC-Datathon-2023/Convivencia-2.jpeg">
+                </picture>
                 <hr>
-                <img alt="Convivencia 3" src="img/DSC-Datathon-2023/Convivencia-3.jpeg">
+                <picture>
+                    <source loading="lazy" srcset="img/DSC-Datathon-2023/Convivencia-3.jpeg" type="image/webp">
+                    <img alt="Convivencia 3" src="img/DSC-Datathon-2023/Convivencia-3.jpeg">
+                </picture>
             </td>
         </tr>
         <tr>
@@ -200,17 +241,35 @@ I have an insatiable thirst for knowledge and a genuine passion for learning. Ke
             <td>Instituto Tecnológico y de Estudios Superiores de Monterrey</td>
             <td><strong>iOS</strong> mobile application that is about a world-wide dictionary where the user can scan an object using Augmented Reality technology, add it a title and a description (these are reviewed by the <strong>OpenAI API</strong> in order to determine if the information is coherent). The user can view the dictionary of each community. When a user wants to view other definitions, they can visualize in 3D in the object that was scanned via AR technology.</td>
             <td>
-                <img alt="ExplorAR-1" src="img/iOS-TecMTY-Hack-2023/ExplorAR-1.png">
+                <picture>
+                    <source loading="lazy" srcset="img/iOS-TecMTY-Hack-2023/ExplorAR-1.webp" type="image/webp">
+                    <img alt="ExplorAR-1" src="img/iOS-TecMTY-Hack-2023/ExplorAR-1.png">
+                </picture>
                 <hr>
-                <img alt="ExplorAR-2" src="img/iOS-TecMTY-Hack-2023/ExplorAR-2.png">
+                <picture>
+                    <source loading="lazy" srcset="img/iOS-TecMTY-Hack-2023/ExplorAR-2.webp" type="image/webp">
+                    <img alt="ExplorAR-2" src="img/iOS-TecMTY-Hack-2023/ExplorAR-2.png">
+                </picture>
                 <hr>
-                <img alt="ExplorAR-3" src="img/iOS-TecMTY-Hack-2023/ExplorAR-3.png">
+                <picture>
+                    <source loading="lazy" srcset="img/iOS-TecMTY-Hack-2023/ExplorAR-3.webp" type="image/webp">
+                    <img alt="ExplorAR-3" src="img/iOS-TecMTY-Hack-2023/ExplorAR-3.png">
+                </picture>
                 <hr>
-                <img alt="ExplorAR-4" src="img/iOS-TecMTY-Hack-2023/ExplorAR-4.png">
+                <picture>
+                    <source loading="lazy" srcset="img/iOS-TecMTY-Hack-2023/ExplorAR-4.webp" type="image/webp">
+                    <img alt="ExplorAR-4" src="img/iOS-TecMTY-Hack-2023/ExplorAR-4.png">
+                </picture>
                 <hr>
-                <img alt="ExplorAR-5" src="img/iOS-TecMTY-Hack-2023/ExplorAR-5.png">
+                <picture>
+                    <source loading="lazy" srcset="img/iOS-TecMTY-Hack-2023/ExplorAR-5.webp" type="image/webp">
+                    <img alt="ExplorAR-5" src="img/iOS-TecMTY-Hack-2023/ExplorAR-5.png">
+                </picture>
                 <hr>
-                <img alt="ExplorAR-6" src="img/iOS-TecMTY-Hack-2023/ExplorAR-6.png">
+                <picture>
+                    <source loading="lazy" srcset="img/iOS-TecMTY-Hack-2023/ExplorAR-6.webp" type="image/webp">
+                    <img alt="ExplorAR-6" src="img/iOS-TecMTY-Hack-2023/ExplorAR-6.png">
+                </picture>
                 <hr>
                 <img alt="Diploma Hackathon" src="img/iOS-TecMTY-Hack-2023/Diploma-Hackaton-2023-5_Juan-Daniel.png">
             </td>
